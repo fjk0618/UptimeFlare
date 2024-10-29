@@ -3,9 +3,12 @@ const pageConfig = {
   title: "Status Page",
   // Links shown at the header of your status page, could set `highlight` to `true`
   links: [
-    { link: 'https://github.com/lyc8503', label: 'GitHub' },
-    { link: 'https://blog.lyc8503.net/', label: 'Blog' },
-    { link: 'mailto:me@lyc8503.net', label: 'Email Me', highlight: true },
+    { link: 'https://alist.52vps.us.kg', label: 'Alist网盘挂载' },
+    { link: 'https://kibana.52vps.us.kg', label: 'Kibina可视化' },
+    { link: 'https://portainer.52vps.us.kg', label: 'portainer' },
+    { link: 'https://doc.52vps.us.kg', label: '文档' },
+    { link: 'https://live.52vps.us.kg', label: '直播录制' },
+    { link: 'https://stauts.52vps.us.kg', label: '探针' },
   ],
 }
 
